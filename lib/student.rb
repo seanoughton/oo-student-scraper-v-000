@@ -20,7 +20,7 @@ class Student
 
   end
 
-  def new(student_hash)
+  def self.new(student_hash)
     self.name = "sean"
   end
 end
