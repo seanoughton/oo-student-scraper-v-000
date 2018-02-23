@@ -21,6 +21,6 @@ class Student
   end
 
   def new(hash)
-    test = "something"
+    
   end
 end
