@@ -21,6 +21,6 @@ class Student
   end
 
   def new(hash)
-    
+    :name, :location, :twitter, :linkedin, :github, :blog, :profile_quote, :bio, :profile_url
   end
 end
