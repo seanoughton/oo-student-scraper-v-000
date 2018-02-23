@@ -20,7 +20,7 @@ class Student
 
   end
 
-  def new(hash)
-    :name = hash[:name]
+  def new(student_hash)
+    :name = student_hash[:name]
   end
 end
