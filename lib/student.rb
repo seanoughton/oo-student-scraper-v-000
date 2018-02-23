@@ -21,7 +21,7 @@ class Student
   end
 
   def self.new(student_hash)
-    new_student = Student.new
+    new_student = Student.new(student_hash)
     new_student.name = "sean"
   end
 end
