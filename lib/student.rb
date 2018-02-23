@@ -21,6 +21,6 @@ class Student
   end
 
   def new(student_hash)
-    @name = student_hash[:name]
+    name = student_hash[:name]
   end
 end
